@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) 
+int main(void)
 {
    int i, j, n, temp=0, arr[250];
 
